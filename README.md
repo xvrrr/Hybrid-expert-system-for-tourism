@@ -1,4 +1,4 @@
-# expert-system
+# Hybrid-expert-system, utilize your LLM API
 
 	How to run the project -
 	1. Unzip the file.
